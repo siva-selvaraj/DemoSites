@@ -102,11 +102,12 @@ public class TestProject1 {
 		String tr = kl.getText();
 		System.out.println(tr);
 		}
+		
+		
 		System.out.println("---mentals1----");
 		System.out.println("---mentals2----");
 		System.out.println("---mentals3----");
 		System.out.println("---mentals4----");
-		
 		
 		
 	}
